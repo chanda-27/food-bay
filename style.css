@@ -63,3 +63,91 @@ div.text-area {
   padding: 50px 0;
 }
 
+/* Section styles */
+section.common-section {
+  width: 90%;
+  padding: 10% 5%;
+  height: 500px;
+  clear: both;
+}
+
+#secound-section {
+  background-image: url(images/background.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.second-section-text-padding {
+  padding-top: 5%;
+}
+
+#secound-section {
+  width: 90%;
+  padding: 100px 5%;
+  height: 500px;
+  clear: both;
+  position: relative;
+}
+
+.common-section-third {
+  width: 90%;
+  padding: 5% 5%;
+  height: 500px;
+  clear: both;
+}
+
+/* Third Section's Styles */
+.third-section {
+  background-color: lightgray;
+  padding: 2% 5% 25% 5%;
+}
+
+.common-box {
+  width: 25%;
+  min-height: 340px;
+  float: left;
+  margin: 0 2%;
+  padding: 2.1%;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.4);  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.common-box img {
+  border-radius: 20px;
+}
+
+.common-box p {
+  font-size: 14px;
+  line-height: 150%;
+  color: dimgray;
+}
+
+.last-section {
+  width: 100%;
+  display: block;
+}
+
+.last-box {
+  width: 65%;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.4);  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+  margin: 70px auto;
+  border-radius: 20px;
+}
+
+.last-box-padding {
+  padding: 30px;
+}
+
+.common-box-part {
+  width: 32.9%;
+  text-align: center;
+  display: inline-block;
+}
+
+.common-box-part-h1 {
+  font-size: 30px !important;
+  font-weight: 900;
+  margin: 0;
+}
