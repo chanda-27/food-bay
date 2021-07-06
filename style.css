@@ -272,3 +272,22 @@ p.third-section-subtitle {
 a .nav-item {
   color: white;
 }
+
+.position-right {
+  text-align: right;
+  display: inline-block;
+}
+
+.offer-text-buy {
+  font-size: 20px;
+}
+
+.offer-text-2 {
+  font-size: 30px;
+  color: #FF69B4;
+}
+
+.offer-text-pizza {
+  font-size: 50px;
+  color: #ff0044;
+}
