@@ -186,3 +186,19 @@ img#image-2 {
 .common-box img {
   width: 100%;
 }
+
+/* Footer Styles */
+footer {
+  clear: both;
+  background-color: #363958;
+  color: white;
+  padding: 50px;
+}
+
+.text-hot-pink {
+  color: #FF69B4;
+}
+
+.text-white {
+  color: white;
+}
