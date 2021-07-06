@@ -151,3 +151,20 @@ section.common-section {
   font-weight: 900;
   margin: 0;
 }
+
+/* Fourth section */
+#fourth-section {
+  background-image: url(images/pizza-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.opacity {
+  background-color: rgba(0, 0, 0, 0.75);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
