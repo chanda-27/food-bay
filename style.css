@@ -233,3 +233,23 @@ footer {
   font-size: 24px;
 }
 
+a.third-section-link {
+  text-decoration: none;
+  color: #363958;
+  font-size: 24px;
+}
+
+p.third-secrion-paragraph {
+  font-size: 20px;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+p.third-section-subtitle {
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+}
+
